@@ -1,0 +1,18 @@
+{
+  "targets": [
+    {
+      "area": "berlin",
+      "plattform": "ebk",
+      "baseUrl": "https://www.ebay-kleinanzeigen.de",
+      "targetPath": "/s-wohnung-mieten/berlin/anzeige:angebote/c203l3331"
+    }
+  ],
+  "scrapInterval": 1,
+  "offerTTL": 10,
+  "mailer": {
+    "//": "use an GMAIL account! Go to this link https://www.google.com/settings/security/lesssecureapps and enable 'Access for less secure apps'",
+    "user": "",
+    "password": "",
+    "mailto": ""
+  }
+}
